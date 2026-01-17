@@ -1,0 +1,2 @@
+# Image-Processing-Smoothing-Sharpening-Edge-Detection-and-Hough-Transform
+This project explores core image processing: smoothing, sharpening, edge detection, and the Hough Transform for line detection. By tuning parameters, we analyze how these operations impact image quality and structural interpretation. These fundamental techniques serve as the backbone for building classical computer vision systems.
